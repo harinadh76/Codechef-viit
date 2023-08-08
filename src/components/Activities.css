@@ -1,0 +1,94 @@
+
+.date{
+    text-align:inherit;
+    padding: 3px;
+    background-color: #fff;
+}
+
+.timecardheading{
+    text-align: start;
+    margin: 2px;
+    padding: 2px;
+}
+.Timecard{
+    /* max-width: 500px; */
+    text-align: inherit;
+    margin: auto 20px;
+    background-color: rgb(192, 206, 255);
+    padding: 10px 8px;
+    border-radius: 5px;
+    
+}
+.Timecards{
+    max-width: 500px;
+    background-color: black;
+}
+.timecarddetail{
+    text-align: start;
+    margin: 2px;
+    padding: 2px;
+}
+.activityimage{
+    max-height: 600px;
+    padding: auto 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+ .button3 {
+    /* border: none;
+    outline: 0;
+    padding: 12px;
+    margin: 5px auto;
+    color: white;
+    background-color: #3b82f6;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px; */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor:pointer;
+  }
+
+  .button4 {
+    background-color:rgb(192, 206, 255);
+    color:white;  
+    border-radius: 5px;
+  }
+  
+  .button4:hover {
+    background-color: #6268de; 
+    font-weight: bold; 
+  }
+
+
+
+  .xyz{
+    /* margin: auto;
+    text-align: center; */
+    width: 35%;
+    
+    /* background-color: #008CBA; */
+    /* background-color: transparent; */
+    
+  }
+  .galleryDiv{
+    /* margin: auto; */
+    /* position: relative; */
+    margin-top: 100px;
+  }
